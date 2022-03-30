@@ -1,0 +1,1 @@
+1Technically, this thing im working on could totally support multiple servers. It would actually be a pretty simple implementation. Which is why im gonna do it.
