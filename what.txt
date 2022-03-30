@@ -1,1 +1,1 @@
-2200000Haha, now you are on the left haha
+1Hello! This thing actually reads messages from GitHub. Pretty cool, right?
