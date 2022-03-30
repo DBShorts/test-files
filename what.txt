@@ -1,1 +1,1 @@
-1Hello!
+1Hello! This is a test of Fetch, a Turbowarp extension, which allows you to fecth information from a file. So far, I am using it to say text (the "1" at the start is what tells my project to say what is written) but I plan on making it able to do much more eventually.
