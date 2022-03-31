@@ -1,0 +1,1 @@
+1This is a project that allows you to make a text file on Github and link it to a scratch project. It allows you to send text, links, and media to anyone on the website.
